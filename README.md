@@ -79,150 +79,17 @@ I'm on an exciting journey into **Machine Learning & AI**, learning the fundamen
 
 ## 🚀 My Projects
 
-### 1. 📊 [Predictive Analytics Project](https://github.com/ayush2041/predictive-analytics)
-**Building ML Models to Predict [Problem Domain]**
+### 1. 📊 
 
-**What I Did:**
-- Performed exploratory data analysis (EDA) on dataset with [X] records
-- Implemented feature engineering techniques
-- Built & compared multiple ML models (Linear Regression, Decision Trees, Random Forest)
-- Evaluated models using accuracy, precision, recall, and F1-score
+### 2. 🧠 
 
-**Technologies Used:**
-- Python, Pandas, NumPy for data processing
-- Scikit-Learn for model building
-- Matplotlib & Seaborn for visualizations
-- Jupyter Notebooks for analysis
+### 3. 🌐 
 
-**Key Results:**
-- Final model accuracy: **XX%**
-- Successfully deployed model for predictions
-- Created comprehensive documentation
+### 4. 📈 
 
-**[📂 Repository](https://github.com/ayush2041/predictive-analytics) | [📓 Notebook](#) | [📊 Dashboard](#)**
+### 5. 🎯 
 
----
-
-### 2. 🧠 [Classification Model Project](https://github.com/ayush2041/classification-model)
-**Image/Text Classification Using Deep Learning**
-
-**What I Did:**
-- Prepared and cleaned dataset
-- Built neural network using TensorFlow/PyTorch
-- Implemented data augmentation techniques
-- Trained and validated model on training/test sets
-- Fine-tuned hyperparameters for better performance
-
-**Technologies Used:**
-- TensorFlow/PyTorch for neural networks
-- Python for scripting
-- Pandas for data handling
-- Jupyter for experimentation
-
-**Key Results:**
-- Model achieved **XX% accuracy** on test data
-- Reduced overfitting through regularization
-- Training time optimized to **X minutes**
-
-**[📂 Repository](https://github.com/ayush2041/classification-model) | [📓 Notebook](#)**
-
----
-
-### 3. 🌐 [Full Stack ML Web App](https://github.com/ayush2041/ml-web-app)
-**End-to-End Application: Frontend + Backend + ML Model**
-
-**What I Did:**
-- Developed React frontend with interactive UI
-- Built FastAPI backend to serve ML model
-- Integrated trained ML model into production
-- Added real-time predictions and visualizations
-- Deployed application on cloud platform
-
-**Technologies Used:**
-- React + TypeScript for frontend
-- FastAPI (Python) for backend API
-- PostgreSQL/MongoDB for data storage
-- Docker for containerization
-- AWS/Heroku for deployment
-
-**Key Features:**
-- ✅ User-friendly interface
-- 📈 Real-time predictions
-- 🔄 Data visualization
-- 📱 Responsive design
-
-**[🔗 Live Demo](https://your-app-link.com) | [📂 Repository](https://github.com/ayush2041/ml-web-app) | [📝 Blog Post](#)**
-
----
-
-### 4. 📈 [Data Analysis & EDA Project](https://github.com/ayush2041/data-analysis-eda)
-**Comprehensive Data Exploration & Insights**
-
-**What I Did:**
-- Loaded and cleaned raw data
-- Performed statistical analysis
-- Created visualizations to find patterns
-- Identified key trends and correlations
-- Generated actionable insights
-
-**Technologies Used:**
-- Pandas for data manipulation
-- NumPy for numerical operations
-- Matplotlib & Seaborn for plotting
-- Jupyter Notebooks for analysis
-
-**Findings:**
-- Discovered [X] significant patterns
-- Identified [Y] outliers and anomalies
-- Key insight: [Your finding]
-
-**[📂 Repository](https://github.com/ayush2041/data-analysis-eda) | [📓 Notebook](#)**
-
----
-
-### 5. 🎯 [Sentiment Analysis Project](https://github.com/ayush2041/sentiment-analysis)
-**NLP Project: Analyzing Text Sentiment**
-
-**What I Did:**
-- Collected and preprocessed text data
-- Implemented text preprocessing (tokenization, lemmatization)
-- Built sentiment classifier using machine learning
-- Evaluated model performance with classification metrics
-- Created simple web interface for testing
-
-**Technologies Used:**
-- NLTK/TextBlob for NLP
-- Scikit-Learn for ML
-- Python for implementation
-- React for UI
-
-**Results:**
-- **XX% accuracy** on sentiment classification
-- Successfully handles positive, negative, neutral sentiments
-
-**[📂 Repository](https://github.com/ayush2041/sentiment-analysis)**
-
----
-
-### 6. 💻 [Full Stack Web Application](https://github.com/ayush2041/web-app)
-**Modern Web Application (Portfolio Project)**
-
-**What I Did:**
-- Designed and built responsive frontend
-- Developed RESTful backend API
-- Implemented authentication & authorization
-- Set up database schema
-- Deployed to production
-
-**Technologies Used:**
-- Frontend: React, Tailwind CSS
-- Backend: Node.js, Express
-- Database: MongoDB/PostgreSQL
-- Deployment: Vercel/Heroku
-
-**[🔗 Live Demo](https://your-app.vercel.app) | [📂 Repository](https://github.com/ayush2041/web-app)**
-
----
+### 6. 💻 S
 
 ## 📚 What I'm Currently Learning
 
@@ -253,22 +120,11 @@ learning_topics = {
 ```
 
 **Resources I'm Using:**
-- 📚 [Coursera ML Specialization](https://www.coursera.org)
-- 🎥 YouTube channels: Statquest, 3Blue1Brown, Sentdex
+- 🎥 YouTube channels: Statquest, 3Blue1Brown, Sentdex, Chai aur Code
 - 📖 Books: "Hands-On ML with Scikit-Learn" by Aurélien Géron
-- 💻 Kaggle competitions & datasets
+- 💻 ChatGPT, GeeksforGeeks, Udemy.com
 
 ---
-
-## 🏆 Achievements & Milestones
-
-- ✅ Completed **[X] ML/AI online courses**
-- 🏅 Ranked in **top 10%** on Kaggle competitions
-- 📊 Built **[X] ML projects** with end-to-end pipeline
-- 💡 Published **[X] project blogs/writeups**
-- 🤝 Contributing to open source projects
-- 📈 Consistent learning & improvement
-
 ---
 
 ## 💡 Key Skills Demonstrated
@@ -276,11 +132,10 @@ learning_topics = {
 | Skill | Level | Projects |
 |-------|-------|----------|
 | **Python Programming** | Strong | All ML projects |
-| **Data Analysis & EDA** | Intermediate | Data analysis project |
-| **ML Model Building** | Intermediate | Predictive analytics, classification |
-| **Deep Learning** | Beginner-Intermediate | Classification project |
+| **ML Model Building** | Beginner | --- |
+| **Deep Learning** | --- | --- |
 | **Web Development** | Strong | Full stack web app |
-| **Data Visualization** | Intermediate | EDA, dashboards |
+| **Data Visualization** | --- | --- |
 | **API Development** | Intermediate | ML web app backend |
 | **SQL/NoSQL** | Intermediate | Database projects |
 
@@ -291,8 +146,8 @@ learning_topics = {
 **Connect with Me:**
 - 💼 [LinkedIn](https://www.linkedin.com/in/ayush-singh2541)
 - 🐦 [Twitter](https://twitter.com/)
-- 📧 [Email](mailto:singhayush2041@gmail.com)
-- 🌐 [Portfolio Website](https://your-portfolio.com)
+- 📧 [Email](singhayush2041@gmail.com)
+- 🌐 [Portfolio Website](---)
 - 📄 [Resume](https://drive.google.com/file/d/1SuVSM19CNa6-IwTEMcixLut8ichyp2PH/view?usp=drivesdk)
 
 ---

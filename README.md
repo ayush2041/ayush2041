@@ -28,6 +28,7 @@ I'm on an exciting journey into **Machine Learning & AI**, learning the fundamen
 ## 🛠️ Tech Stack
 
 ### **Languages**
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -288,27 +289,23 @@ learning_topics = {
 ## 🔗 Quick Links
 
 **Connect with Me:**
-- 💼 [LinkedIn](https://www.linkedin.com/in/ayush2041)
-- 🐦 [Twitter](https://twitter.com/ayush2041)
-- 📧 [Email](mailto:ayush2041@example.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ayush-singh2541)
+- 🐦 [Twitter](https://twitter.com/)
+- 📧 [Email](mailto:singhayush2041@gmail.com)
 - 🌐 [Portfolio Website](https://your-portfolio.com)
-- 📄 [Resume](https://drive.google.com/file/d/YOUR_RESUME_ID/view)
-
-**Learning Resources I Share:**
-- 📝 [Blog/Medium](https://medium.com/@ayush2041)
-- 🎥 [YouTube Channel](#) (upcoming)
-- 📊 [Kaggle Profile](https://www.kaggle.com/ayush2041)
+- 📄 [Resume](https://drive.google.com/file/d/1SuVSM19CNa6-IwTEMcixLut8ichyp2PH/view?usp=drivesdk)
 
 ---
 
 ## 🤝 Open To Opportunities
 
 **I'm actively looking for:**
-- 🚀 **Internships/Entry-level roles** in Data Science & ML
-- 📊 **Freelance projects** involving data analysis or ML
-- 🤝 **Collaborations** on open source ML projects
+- 🚀 **Internships/Entry-level roles** in AI/ML & Software Development
+- 💻 **Freelance projects** involving AI solutions or application development
+- 🤝 **Collaborations** on open-source AI/ML or development projects
 - 💬 **Mentorship** and learning opportunities
-- 📚 **Challenging projects** to learn and grow
+- 📚 **Challenging projects** to build and grow in AI/ML & development
+
 
 **Why hire me:**
 - 🎯 Passionate about learning & problem-solving
@@ -322,15 +319,17 @@ learning_topics = {
 ## 📈 My Development Journey
 
 ```
-2024: Started learning ML basics
+2024: Started Learning Full Stack Development fundamentals
     ↓
-2024-2025: Building first ML projects
+2025: Building full stack web applications and learning Python & ML basics
     ↓
-2025: Full stack ML applications
+2025: Building basic ML projects
     ↓
-2026: Currently - Shipping real-world projects
+2025–2026: Developing full stack applications with ML integration
     ↓
-Next: Advanced ML & specialization
+2026: Currently - Developing real-world full stack projects and ML-based applications
+    ↓
+Next: Advanced full stack development, scalable applications, and specialization in AI/ML
 ```
 
 ---

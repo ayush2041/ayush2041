@@ -116,53 +116,6 @@ I'm on an exciting journey into **Machine Learning & AI**, learning the fundamen
 
 ---
 
-## 🤝 Open To Opportunities
-
-**I'm actively looking for:**
-- 🚀 **Internships/Entry-level roles** in AI/ML & Software Development
-- 💻 **Freelance projects** involving AI solutions or application development
-- 🤝 **Collaborations** on open-source AI/ML or development projects
-- 💬 **Mentorship** and learning opportunities
-- 📚 **Challenging projects** to build and grow in AI/ML & development
-
-
-**Why hire me:**
-- 🎯 Passionate about learning & problem-solving
-- 💻 Strong foundation in full-stack development
-- 📈 Actively building & shipping ML projects
-- 🤝 Great communicator & team player
-- ⚡ Quick learner with growth mindset
-
----
-
-## 📈 My Development Journey
-
-```
-2024: Started Learning Full Stack Development fundamentals
-    ↓
-2025: Building full stack web applications and learning Python & ML basics
-    ↓
-2025: Building basic ML projects
-    ↓
-2025–2026: Developing full stack applications with ML integration
-    ↓
-2026: Currently - Developing real-world full stack projects and ML-based applications
-    ↓
-Next: Advanced full stack development, scalable applications, and specialization in AI/ML
-```
-
----
-
-## 📊 Contribution Stats
-
-<div align="center">
-
-![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=ayush2041&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 <div align="center">
 
 ![Visitors](https://komarev.com/ghpvc/?username=ayush2041&color=blue&style=flat-square)

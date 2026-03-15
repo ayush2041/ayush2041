@@ -91,42 +91,6 @@ I'm on an exciting journey into **Machine Learning & AI**, learning the fundamen
 
 ### 6. 💻 S
 
-## 📚 What I'm Currently Learning
-
-```python
-# Active Learning Journey
-learning_topics = {
-    "Machine Learning": [
-        "Advanced feature engineering",
-        "Model optimization techniques",
-        "Ensemble methods"
-    ],
-    "Deep Learning": [
-        "CNN for computer vision",
-        "RNN for sequences",
-        "Transfer learning"
-    ],
-    "MLOps": [
-        "Model deployment",
-        "Containerization with Docker",
-        "Monitoring & logging"
-    ],
-    "Next Steps": [
-        "NLP & Transformers",
-        "Reinforcement Learning basics",
-        "Production ML systems"
-    ]
-}
-```
-
-**Resources I'm Using:**
-- 🎥 YouTube channels: Statquest, 3Blue1Brown, Sentdex, Chai aur Code
-- 📖 Books: "Hands-On ML with Scikit-Learn" by Aurélien Géron
-- 💻 ChatGPT, GeeksforGeeks, Udemy.com
-
----
----
-
 ## 💡 Key Skills Demonstrated
 
 | Skill | Level | Projects |
@@ -146,8 +110,8 @@ learning_topics = {
 **Connect with Me:**
 - 💼 [LinkedIn](https://www.linkedin.com/in/ayush-singh2541)
 - 🐦 [Twitter](https://twitter.com/)
-- 📧 [Email](singhayush2041@gmail.com)
-- 🌐 [Portfolio Website](---)
+- 📧 [Email](https://singhayush2041@gmail.com)
+- 🌐 [Portfolio Website](https://leetcode.com/u/ayush2041/)
 - 📄 [Resume](https://drive.google.com/file/d/1SuVSM19CNa6-IwTEMcixLut8ichyp2PH/view?usp=drivesdk)
 
 ---
@@ -189,22 +153,6 @@ Next: Advanced full stack development, scalable applications, and specialization
 
 ---
 
-## 💬 Let's Talk!
-
-I'd love to connect with:
-- 🎓 Mentors and experienced professionals
-- 👥 Fellow learners and developers
-- 💼 Potential employers & team leads
-- 🚀 Collaborators on interesting projects
-
-**Feel free to reach out for:**
-- Project collaborations
-- Code reviews & feedback
-- Learning discussions
-- Opportunities & internships
-
----
-
 ## 📊 Contribution Stats
 
 <div align="center">
@@ -212,22 +160,6 @@ I'd love to connect with:
 ![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=ayush2041&theme=tokyonight&hide_border=true)
 
 </div>
-
----
-
-## ✨ Fun Facts About Me
-
-```javascript
-const ayush = {
-  favoriteLanguage: "Python 🐍",
-  currentMission: "Mastering ML & building cool stuff",
-  drinkOfChoice: "☕ Coffee",
-  learningStyle: "Learn → Build → Debug → Repeat",
-  bestIdeas: "Shower thoughts at 2 AM 💭",
-  goal: "Use ML to solve real problems",
-  funActivity: "Exploring Kaggle datasets 📊"
-}
-```
 
 ---
 

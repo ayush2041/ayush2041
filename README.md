@@ -71,7 +71,11 @@ I'm on an exciting journey into **Machine Learning & AI**, learning the fundamen
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush2041&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ayush2041&theme=tokyonight&hide_border=true)
+</div>
+
+<div align="center">
+
+![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=ayush2041&theme=tokyonight&hide_border=true)
 
 </div>
 

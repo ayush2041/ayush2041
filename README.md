@@ -83,7 +83,7 @@ I'm on an exciting journey into **Machine Learning & AI**, learning the fundamen
 
 ## 🚀 My Projects
 
-### 1. 📊 
+### 1. 📊  FitTrack – Real-Time Exercise Form Analyzer
 
 ### 2. 🧠 
 
@@ -99,12 +99,11 @@ I'm on an exciting journey into **Machine Learning & AI**, learning the fundamen
 
 | Skill | Level | Projects |
 |-------|-------|----------|
-| **Python Programming** | Strong | All ML projects |
+| **Python Programming** | Strong |  FitTrack – Real-Time Exercise Form Analyzer|
 | **ML Model Building** | Beginner | --- |
 | **Deep Learning** | --- | --- |
 | **Web Development** | Strong | Full stack web app |
 | **Data Visualization** | --- | --- |
-| **API Development** | Intermediate | ML web app backend |
 | **SQL/NoSQL** | Intermediate | Database projects |
 
 ---

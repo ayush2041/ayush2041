@@ -41,6 +41,7 @@ Building intelligent solutions with full-stack development and machine learning.
 - 💼 [LinkedIn](https://www.linkedin.com/in/ayush-singh2541)
 - 📧 [Email](mailto:singhayush2041@gmail.com)
 - 📄 [Resume](https://drive.google.com/file/d/1SuVSM19CNa6-IwTEMcixLut8ichyp2PH/view?usp=drivesdk)
+- 🌐 [Portfolio Website](https://leetcode.com/u/ayush2041/)
 
 ---
 

@@ -4,6 +4,12 @@
 
 Building intelligent solutions with full-stack development and machine learning.
 
+# 🔗 Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/ayush-singh2541)
+- 📧 [Email](mailto:singhayush2041@gmail.com)
+- 📄 [Resume](https://drive.google.com/file/d/1SuVSM19CNa6-IwTEMcixLut8ichyp2PH/view?usp=drivesdk)
+- 🌐 [Portfolio Website](https://my-portfolio-iota-snowy-16.vercel.app)
 ---
 
 ## 🎯 What I Do
@@ -33,16 +39,6 @@ Building intelligent solutions with full-stack development and machine learning.
 
 - **FitTrack** – Real-time exercise form analyzer using computer vision
 - **NeerRO** – Water delivery management system
-
----
-
-## 🔗 Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/ayush-singh2541)
-- 📧 [Email](mailto:singhayush2041@gmail.com)
-- 📄 [Resume](https://drive.google.com/file/d/1SuVSM19CNa6-IwTEMcixLut8ichyp2PH/view?usp=drivesdk)
-- 🌐 [Portfolio Website](https://leetcode.com/u/ayush2041/)
-
 ---
 
 <div align="center">

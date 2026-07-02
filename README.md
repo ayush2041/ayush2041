@@ -43,7 +43,7 @@ Building intelligent solutions with full-stack development and machine learning.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayush2041&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayush2041&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true)
 
 ⭐ *Actively building & learning | Open to opportunities*
 

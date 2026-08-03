@@ -41,15 +41,15 @@ Building intelligent solutions with full-stack development and machine learning.
 - **NeerRO** – Water delivery management system
 ---
 
-<div align="center">
 
 ## 🚀 LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/ayush2041?theme=dark&font=Baloo&ext=contest)
+![LeetCode Stats](https://leetcard.jacoblin.cool/ayush2041?theme=dark&font=Baloo)
+
+<div align="center">
 
 ## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayush2041&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=ayush2041)
 
 ⭐ *Actively building & learning | Open to opportunities*
 
